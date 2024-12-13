@@ -26,8 +26,8 @@ Frontend'i başlatmak için şu adımları izleyin:
 ## Özellikler
 
 - Kullanıcı kayıt ve giriş (Test için yazılmıştır; dilerseniz devre dışı bırakabilirsiniz)
-- Menü düzenleme
-- Yazıları düzenleme ve ekleme
+- Menü ekleme, silme ve düzenleme
+- Yazı ekleme, silme ve düzenleme
 - Footer ayarları
 - Kategori işlemleri
 
@@ -35,6 +35,7 @@ Frontend'i başlatmak için şu adımları izleyin:
 
 - Sayfa ekleme, silme ve düzenleme
 - Resim yükleme desteği (Şu an tüm yazılar için standart bir resim kullanılmaktadır)
+- Reklam alanlarının admin paneli üzerinden değiştirilebilmesi
 
 ---
 
