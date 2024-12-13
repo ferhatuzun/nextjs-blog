@@ -5,15 +5,19 @@ Next.js ve Express.js kullanılarak geliştirilmiş bir blog projesidir.
 ## Kurulum
 
 ### Backend
-`.env` dosyasına aşağıdaki bilgileri ekleyin:
+`.env` dosyası oluşturup aşağıdaki bilgileri ekleyin:
 - `JWT_SECRET`: Kendi belirlediğiniz bir JWT secret değeri
 - `MONGODB_URL`: MongoDB bağlantı URL'iniz
+- `PORT`: Backendin çalışmasını istediğiniz port
 
 Backend'i başlatmak için şu adımları izleyin:
 1. `npm install`
 2. `nodemon index.js`
 
 ### Frontend
+`.env` dosyası oluşturup aşağıdaki bilgileri ekleyin:
+- `NEXT_PUBLIC_API_URL`: Backend projesinin çalıştığı url adresi
+
 Frontend'i başlatmak için şu adımları izleyin:
 1. `npm install`
 2. `npm run dev`
