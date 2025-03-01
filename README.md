@@ -12,7 +12,7 @@ Next.js ve Express.js kullanılarak geliştirilmiş bir blog projesidir.
 
 Backend'i başlatmak için şu adımları izleyin:
 1. `npm install`
-2. `nodemon index.js`
+2. `node index.js`
 
 ### Frontend
 `.env` dosyası oluşturup aşağıdaki bilgileri ekleyin:
